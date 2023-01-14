@@ -104,7 +104,7 @@ hr {
 
 .reating {
     display: flex;
-    text-align: center;
+    align-items: center;
 }
 
 .red {
@@ -114,7 +114,7 @@ hr {
 
 .star {
     color: #FFC014;
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
 
 .diff {
